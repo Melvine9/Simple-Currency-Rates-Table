@@ -21,7 +21,7 @@
 			span.readonly p.license { border-top: 1px solid #eee; font-size: 11px; margin: 30px 26px 0; padding: 6px 0; }
 		</style>
 
-		<span class="readonly"><h1> Simple Currency Rates Table  <small>ver. 1.0</small></h1><p>Simple Currency Rates Table </u> by Melvine. Un module qui affiche jusqu'à 10 devises par rapport à votre devise de base ! Les utilisateurs peuvent ensuite changer la devise de référence. Possibilité de personnaliser le style Couleurs / tailles avec une fourchette de dimensions prédéfinies.</p><p> A module that displays up to 10 currencies against your default base currency! Users can then change base currency. Custom style colors/sizes with a range of preset dimensions. Simple Currency Rates Table  every 1 minute everyday.</p> <p class='homepage'><a href='http://www.melvineobserver.com/' target='_blank'>See demo of Simple Currency Rates Table  .</a></p><p class='license'> Simple Currency Rates Table  is released under the <a target="_blank" href="http://www.gnu.org/licenses/gpl-2.0.html">GNU/GPL v2 license.</a></p></span>
+		<span class="readonly"><h1> Simple Currency Rates Table  <small>ver. 2.0</small></h1><p>Simple Currency Rates Table </u> by Melvine. Un module qui affiche jusqu'à 10 devises par rapport à votre devise de base ! Les utilisateurs peuvent ensuite changer la devise de référence. Possibilité de personnaliser le style Couleurs / tailles avec une fourchette de dimensions prédéfinies.</p><p> A module that displays up to 10 currencies against your default base currency! Users can then change base currency. Custom style colors/sizes with a range of preset dimensions. Simple Currency Rates Table  every 1 minute everyday.</p> <p class='homepage'><a href='http://www.melvineobserver.com/' target='_blank'>See demo of Simple Currency Rates Table  .</a></p><p class='license'> Simple Currency Rates Table  is released under the <a target="_blank" href="http://www.gnu.org/licenses/gpl-2.0.html">GNU/GPL v2 license.</a></p></span>
 		
 		<span class='tooltip-content'>Simple Currency Rates Table for Joomla! 3.8</span>
 	]]></description>
@@ -38,7 +38,7 @@
                          <option value="200">200</option>
                          <option value="220">220</option>
                          <option value="250">250</option>
-                         <option value="250">350</option>						 
+                         <option value="350">350</option>						 
 					</field>	 
 				<field name="nb" type="list" default="10" label="Number of currencies" description="Choose the number of Currencies to display">
 					<option value="1">1</option>

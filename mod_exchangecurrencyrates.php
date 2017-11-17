@@ -6,7 +6,7 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL, see LICENSE.php
  *
  * @module		Simple Currency Rates Table Module (mod_exchangecurrencyrates)
- * @version		1.0.0 (23/01/2012) Joomla 3
+ * @version		2.0.0 (23/01/2012) Joomla 3
  * @copyright	Copyright (C) 2012 by Melvine (www.melvineobserver.com)
  * @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
  */
